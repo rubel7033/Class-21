@@ -1,3 +1,8 @@
 .carousel-item{
     height: 650px;
 }
+
+.mynext{
+    width: 200px;
+    margin: 0 auto;
+}
